@@ -1,2 +1,2 @@
-# Trial-GrideExample
+# Trial-GridExample
  Trial Studies
